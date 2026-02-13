@@ -1,0 +1,12 @@
+body {
+  background: #e9ecf1;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  padding: 50px;
+  flex-wrap: wrap;
+}
