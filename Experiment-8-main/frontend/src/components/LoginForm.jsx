@@ -14,7 +14,7 @@ function LoginForm() {
 
     try {
       const res = await axios.post(
-        "https://two4bai70826-aditya-pathanai-fullstack.onrender.com",
+        "https://two4bai70826-aditya-pathanai-fullstack.onrender.com/api/login",
         { username, password }
       );
 
