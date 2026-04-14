@@ -10,9 +10,9 @@
 
 ### Live Demo Links:
 
-Frontend: https://experiment-8-six.vercel.app/
+Frontend: https://experiment8.vercel.app/
 
-Backend: https://experiment-8-backend-m1fh.onrender.com
+Backend: hhttps://two4bai70826-aditya-pathanai-fullstack.onrender.com
 
 -----------------------------------------------------
 
@@ -66,6 +66,6 @@ node server.js
 
 
 
-## Name: Daanveer Mehra
-## UID: 24BAI70059
-## Section: 24AML-2(A)
+## Name: Aditya Pathania
+## UID: 24BAI70826
+## Section: 24AML-4(B)
